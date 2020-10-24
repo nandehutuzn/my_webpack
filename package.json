@@ -1,0 +1,13 @@
+{
+  "name": "my-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zhang.ning <zhang.ning@mdb-fintech.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/parser": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/traverse": "^7.12.1"
+  }
+}
